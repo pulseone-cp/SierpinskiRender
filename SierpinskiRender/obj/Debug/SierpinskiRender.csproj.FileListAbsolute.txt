@@ -1,0 +1,10 @@
+C:\Users\cp\RiderProjects\SierpinskiRender\SierpinskiRender\bin\Debug\SierpinskiRender.exe.config
+C:\Users\cp\RiderProjects\SierpinskiRender\SierpinskiRender\bin\Debug\SierpinskiRender.exe
+C:\Users\cp\RiderProjects\SierpinskiRender\SierpinskiRender\bin\Debug\SierpinskiRender.pdb
+C:\Users\cp\RiderProjects\SierpinskiRender\SierpinskiRender\obj\Debug\SierpinskiRender.csproj.AssemblyReference.cache
+C:\Users\cp\RiderProjects\SierpinskiRender\SierpinskiRender\obj\Debug\SierpinskiRender.Properties.Resources.resources
+C:\Users\cp\RiderProjects\SierpinskiRender\SierpinskiRender\obj\Debug\SierpinskiRender.csproj.GenerateResource.cache
+C:\Users\cp\RiderProjects\SierpinskiRender\SierpinskiRender\obj\Debug\SierpinskiRender.csproj.CoreCompileInputs.cache
+C:\Users\cp\RiderProjects\SierpinskiRender\SierpinskiRender\obj\Debug\SierpinskiRender.exe
+C:\Users\cp\RiderProjects\SierpinskiRender\SierpinskiRender\obj\Debug\SierpinskiRender.pdb
+C:\Users\cp\RiderProjects\SierpinskiRender\SierpinskiRender\obj\Debug\SierpinskiRender.exe.config
